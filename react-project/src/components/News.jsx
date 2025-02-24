@@ -9,7 +9,7 @@ const News = () => {
             "name": "BBC Sport"
           },
           "author": null,
-          "title": "Australia vs England LIVE: Champions Trophy ODI – cricket score, radio & highlights",
+          "title": "Australia vs England LIVE: Champions Trophy ODI 2025",
           "description": "Australia face England in the Champions in Lahore - follow live cricket scores, text updates, in-play video clips and radio commentary",
           "url": "http://www.bbc.co.uk/sport/cricket/live/c5y7e76ln4mt",
           "urlToImage": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/sport/images/metadata/poster-1024x576.png",
