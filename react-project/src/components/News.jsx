@@ -47,7 +47,7 @@ const News = () => {
   return (
     <>
 
-    <div className="flex my-20 mx-5 items-center justify-center">
+    <div className="flex mx-5 items-center justify-center">
         {article.map((at, index)=>{
             return <NewsItems key={index} title={at.title} desc={at.description} img = {at.urlToImage}/>
 })}

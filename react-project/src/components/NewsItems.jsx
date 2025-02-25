@@ -3,7 +3,7 @@ import React from 'react'
 const NewsItems = ({desc, title, img}) => {
   return (
     <>
-    <div className='max-w-sm m-3'>
+    <div className='max-w-sm m-3 my-20'>
     <div className=" bg-white border border-gray-200 rounded-lg shadow-sm dark:bg-gray-800 dark:border-gray-700">
     <a href="#">
         <img className="rounded-t-lg" src={img} alt="" />
